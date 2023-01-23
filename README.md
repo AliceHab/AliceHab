@@ -10,7 +10,8 @@ Made while studying on Yandex's course
 
 * [How to learn](https://alicehab.github.io/how-to-learn/)
 * [Train to Russia](https://alicehab.github.io/russian-travel/)
-
+  
+<!--
 **📐 **
 
 * [URL-encoder for SVG](http://yoksel.github.io/url-encoder/) — encodes SVG for using in CSS backgrounds or masks
