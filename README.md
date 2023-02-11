@@ -6,7 +6,7 @@ There's some of my stuff
 
 **📑 Yandex projects**
 
-Made while studying on Yandex's course
+Made while studying
 
 * [How to learn](https://alicehab.github.io/how-to-learn/)
 * [Train to Russia](https://alicehab.github.io/russian-travel/)
